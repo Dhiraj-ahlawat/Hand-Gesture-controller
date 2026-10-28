@@ -1,0 +1,11 @@
+# Hand Gesture Controller - Dependencies
+# Core Computer Vision & Image Processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Real-Time Hand Landmark Tracking & Perception (Phase 2)
+mediapipe>=0.10.0
+
+# Testing
+pytest>=7.0.0
